@@ -1,8 +1,10 @@
 Program #1
 
+Name:
+
 COSC 2030
 
-Name:
+Section #
 
 Competing: YES or NO
 
